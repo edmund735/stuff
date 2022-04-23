@@ -97,6 +97,6 @@ export default function Tile({ tile }) {
                     Read More
                 </Button>
             </Pane>
-        </Pane >
+        </Pane>
     );
 }
